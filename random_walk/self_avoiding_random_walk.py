@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import random
 from colorama import Fore
 import os
